@@ -1,0 +1,15 @@
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\bin\Debug\net6.0\Laba 5.2 2023.exe
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\bin\Debug\net6.0\Laba 5.2 2023.deps.json
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\bin\Debug\net6.0\Laba 5.2 2023.runtimeconfig.json
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\bin\Debug\net6.0\Laba 5.2 2023.dll
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\bin\Debug\net6.0\Laba 5.2 2023.pdb
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.csproj.AssemblyReference.cache
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.AssemblyInfoInputs.cache
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.AssemblyInfo.cs
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.csproj.CoreCompileInputs.cache
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.dll
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\refint\Laba 5.2 2023.dll
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.pdb
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\Laba 5.2 2023.genruntimeconfig.cache
+D:\VS Projects\C#\Laba 5.2 2023\Laba 5.2 2023\obj\Debug\net6.0\ref\Laba 5.2 2023.dll
